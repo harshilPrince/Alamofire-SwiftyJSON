@@ -13,6 +13,7 @@
 		E04618AD203D77190068CF6A /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = E04618AC203D77190068CF6A /* Model.swift */; };
 		E04618AF203D7DC50068CF6A /* customTV.swift in Sources */ = {isa = PBXBuildFile; fileRef = E04618AE203D7DC40068CF6A /* customTV.swift */; };
 		E04618B1203D82B30068CF6A /* APIManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E04618B0203D82B30068CF6A /* APIManager.swift */; };
+		E04618B3203DD7160068CF6A /* Simulator Screen Shot - iPhone 6 - 2018-02-21 at 08.31.12.png in Resources */ = {isa = PBXBuildFile; fileRef = E04618B2203DD7150068CF6A /* Simulator Screen Shot - iPhone 6 - 2018-02-21 at 08.31.12.png */; };
 		E09A9D48203D6F2300F5F681 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E09A9D47203D6F2300F5F681 /* AppDelegate.swift */; };
 		E09A9D4A203D6F2300F5F681 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E09A9D49203D6F2300F5F681 /* ViewController.swift */; };
 		E09A9D4D203D6F2300F5F681 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E09A9D4B203D6F2300F5F681 /* Main.storyboard */; };
@@ -29,6 +30,7 @@
 		E04618AC203D77190068CF6A /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		E04618AE203D7DC40068CF6A /* customTV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = customTV.swift; sourceTree = "<group>"; };
 		E04618B0203D82B30068CF6A /* APIManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIManager.swift; sourceTree = "<group>"; };
+		E04618B2203DD7150068CF6A /* Simulator Screen Shot - iPhone 6 - 2018-02-21 at 08.31.12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 6 - 2018-02-21 at 08.31.12.png"; sourceTree = "<group>"; };
 		E09A9D44203D6F2300F5F681 /* Alamofire+wiftyJSON.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Alamofire+wiftyJSON.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E09A9D47203D6F2300F5F681 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E09A9D49203D6F2300F5F681 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 		E09A9D46203D6F2300F5F681 /* Alamofire+wiftyJSON */ = {
 			isa = PBXGroup;
 			children = (
+				E04618B2203DD7150068CF6A /* Simulator Screen Shot - iPhone 6 - 2018-02-21 at 08.31.12.png */,
 				E09A9D47203D6F2300F5F681 /* AppDelegate.swift */,
 				E09A9D49203D6F2300F5F681 /* ViewController.swift */,
 				E09A9D4B203D6F2300F5F681 /* Main.storyboard */,
@@ -168,6 +171,7 @@
 				E09A9D52203D6F2300F5F681 /* LaunchScreen.storyboard in Resources */,
 				E09A9D4F203D6F2300F5F681 /* Assets.xcassets in Resources */,
 				E09A9D4D203D6F2300F5F681 /* Main.storyboard in Resources */,
+				E04618B3203DD7160068CF6A /* Simulator Screen Shot - iPhone 6 - 2018-02-21 at 08.31.12.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
